@@ -1,0 +1,88 @@
+#starts {     	
+        
+		background-color: white;
+    	width: 100%;
+
+        -webkit-box-shadow: -12px 0px 5px 0px rgba(0,0,0,0.75);
+       -moz-box-shadow: -12px 0px 5px 0px rgba(0,0,0,0.75);
+        box-shadow: -12px 0px 5px 0px rgba(0,0,0,0.1);
+        float: center; 
+
+      
+
+}
+#dos{
+	   float: center; 
+
+        
+
+
+}
+#tres{
+
+float: left; 
+
+	
+}
+
+#cuatro{
+
+
+float: right; 
+
+}
+
+#cinco{
+
+
+float: left; 
+    
+}
+
+#seis{
+
+float: right; 
+
+}
+
+#ocho{
+        border: 10px solid skyblue;
+        
+        background-color: #C0C0C0;
+        width: 35%;
+        -webkit-box-shadow: -12px 0px 5px 0px rgba(0,0,0,0.75);
+       -moz-box-shadow: -12px 0px 5px 0px rgba(0,0,0,0.75);
+        box-shadow: -12px 0px 5px 0px rgba(0,0,0,0.1);
+        float: left; 
+
+        border-radius: 53px 44px 92px 130px;
+        -moz-border-radius: 53px 44px 92px 130px;
+        -webkit-border-radius: 53px 44px 92px 130px;
+        border: 17px double #7f73d9;
+
+        border: 2px solid;
+        border-radius: 25px;
+        float: left;
+                
+}
+#vid1{
+    float:left;
+
+}
+#vid2{
+    float:right;
+
+    
+}
+
+label{
+	color: blue;
+}
+.contact_form li{
+	padding: 12px;
+	border-bottom: 1 solid #9293a0;
+	position: relative;
+}
+
+
+
